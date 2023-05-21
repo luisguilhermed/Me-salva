@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+h1{
+    background-color: gray;
+}
+h2{
+    background-color: gray;
+}
+div.materia{
+    display: inline-block;
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: skyblue;
+    margin: 10px 15px;
+    
+}
